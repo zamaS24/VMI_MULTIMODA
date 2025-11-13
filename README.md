@@ -1,0 +1,1 @@
+# Repo where I put my assignments of the M2 VMI course IFLCE055 Multi-modalité et IA générative
